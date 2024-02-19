@@ -7,6 +7,7 @@ function App() {
     <>
       <h1>Hii Enter your name here</h1>
       <p>Rituraj Jha IT</p>
+      <p>divyanshu chouhan IT</p>
     </>
   )
 }
