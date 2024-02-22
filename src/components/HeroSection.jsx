@@ -13,10 +13,10 @@ const HeroSection = () => {
 
             <div className='flex flex-col mt-20 gap-10 items-start'>
                 <div>
-                    <h1 className='text-6xl max-w-[580px] leading-[7vh] text-left font-bold'>Unlock your Full potential with <span className='text-purple-800'>Hackerrank</span></h1>
+                    <h1 className='text-6xl max-w-[580px] leading-[6.2vh] text-left font-bold'>Unlock your Full potential with <span className='text-purple-800'>Hackerrank</span></h1>
                 </div>
 
-                <div className='bg-blue-500 rounded-full px-5 py-3'><button className='flex items-center gap-5 font-bold'>
+                <div className='bg-blue-500 rounded-full px-5 py-3'><button className='flex items-center gap-5'>
             Get Started <FaArrowRightLong />
           </button></div>
 

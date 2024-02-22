@@ -6,7 +6,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 const Navbar = () => {
   return (
-    <div className='max-w-[1080px] h-20 mx-auto px-6 py-4 bg-white text-white bg-opacity-10 rounded-full'>
+    <div className='max-w-[1080px] md:max-w-md h-20 mx-auto px-6 py-4 bg-white text-white bg-opacity-10 rounded-full'>
         <div className='flex justify-between items-center'>
           <div><SiHackerearth className='w-8 h-8' /></div>
           <div>
