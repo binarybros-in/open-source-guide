@@ -2,9 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>
-        <div>LOGO</div>
-        <div>Nav Links</div>
+    <div className='max-w-[1080px] bg-white bg-opacity-10 rounded-full'>
     </div>
   )
 }
