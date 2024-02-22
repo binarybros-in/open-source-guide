@@ -18,7 +18,7 @@ const Navbar = () => {
               <li><a href="">Sales</a></li>
             </ul>
           </div>
-          <div className='bg-blue-500 rounded-full px-5 py-3'><button className='flex items-center gap-5'>
+          <div className='bg-blue-500 rounded-full px-5 py-3'><button className='flex items-center gap-5 font-bold'>
             Get Started <FaArrowRightLong />
           </button></div>
         </div>
